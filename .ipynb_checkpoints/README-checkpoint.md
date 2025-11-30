@@ -1,5 +1,5 @@
 # Titanic Kaggle Challenge
-http://www.kaggle.com/c/titanic-gettingStarted
+ http://www.kaggle.com/c/titanic-gettingStarted
  
 >The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
@@ -28,8 +28,6 @@ The goal was to build a notebook that could provide a iterable workflow in order
 *   Adding ensemble models resulted in big improvement in cv metrics, but a lower score of **0.78468**.
 
 
-### Kaggle Submission:
-https://www.kaggle.com/code/cganxs/titanic-competition
 
 
 
